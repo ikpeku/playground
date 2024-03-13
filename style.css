@@ -1,0 +1,54 @@
+
+.title{
+    color: #000000;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.banner_container {
+    display: flex;
+    gap: 20px;
+}
+
+.container{
+    flex: 1;
+}
+
+.container img {
+    width: 100%;
+    aspect-ratio: 4/2;
+    object-fit: fill;
+}
+
+input,
+textarea{
+width: 100%;
+}
+
+
+.second_room_title {
+    color: #0D0C0C ;
+    }
+
+.form_area {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    border: 2px solid gainsboro;
+    padding: 30px;
+    margin-top: 30px;
+    
+}
+
+#btn_container{
+    display: flex;
+}
+
+#btn_container button {
+    margin-left: auto;
+    padding: 10px 50px;
+    background-color: #004DE6C2;
+    color: #ffffff;
+    border: none;
+}
+
